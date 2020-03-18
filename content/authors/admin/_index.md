@@ -23,7 +23,7 @@ name: Michael Snyder
 organizations:
 - name: Stanford University
   url: ""
-role: Professor of Artificial Intelligence
+role: Professor
 social:
 - icon: envelope
   icon_pack: fas
